@@ -1,0 +1,46 @@
+2025-04-24 12:34:36 - Dispositivo 192.168.0.1 está ONLINE
+
+2025-04-24 12:34:39 - Dispositivo 192.168.0.10 está ONLINE
+
+2025-04-24 12:34:42 - Dispositivo 192.168.0.15 está ONLINE
+
+2025-04-24 12:34:42 - Dispositivo google.com está ONLINE
+
+2025-04-24 12:36:38 - Dispositivo 192.168.0.1 está ONLINE
+
+2025-04-24 12:36:39 - Dispositivo 192.168.0.10 está ONLINE
+
+2025-04-24 12:36:41 - Dispositivo 192.168.0.15 está ONLINE
+
+2025-04-24 12:36:41 - Dispositivo 123.456.7.89 está OFFLINE
+
+2025-04-24 12:36:41 - Dispositivo google.com está ONLINE
+
+2025-04-24 13:44:38 - Dispositivo 192.168.0.1 está ONLINE
+
+2025-04-24 13:44:39 - Dispositivo 192.168.0.10 está ONLINE
+
+2025-04-24 13:44:41 - Dispositivo 192.168.0.15 está ONLINE
+
+2025-04-24 13:44:52 - Dispositivo 192.168.0.1 está ONLINE
+
+2025-04-24 13:44:55 - Dispositivo 192.168.0.10 está ONLINE
+
+2025-04-24 13:44:58 - Dispositivo 192.168.0.15 está ONLINE
+
+2025-04-24 13:44:58 - Dispositivo 123.456.7.89 está OFFLINE
+
+2025-04-24 13:45:01 - Dispositivo google.com está ONLINE
+
+2025-04-24 13:45:37 - Dispositivo 192.168.0.1 está ONLINE
+
+2025-04-24 13:45:40 - Dispositivo 192.168.0.10 está ONLINE
+
+2025-04-24 13:45:43 - Dispositivo 192.168.0.15 está ONLINE
+
+2025-04-24 13:45:43 - Dispositivo 123.456.7.89 está OFFLINE
+
+2025-04-24 13:45:46 - Dispositivo 142.344.3.12 está OFFLINE
+
+2025-04-24 13:45:49 - Dispositivo google.com está ONLINE
+

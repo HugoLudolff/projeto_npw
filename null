@@ -1,0 +1,8 @@
+
+Pinging google.com [2800:3f0:4004:810::200e] with 32 bytes of data:
+Reply from 2800:3f0:4004:810::200e: time=21ms 
+
+Ping statistics for 2800:3f0:4004:810::200e:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 21ms, Maximum = 21ms, Average = 21ms
